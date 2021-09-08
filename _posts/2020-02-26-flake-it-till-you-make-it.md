@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daphnia Genomics
-subtitle: Assembling draft genomes for two strains of _Daphnia pulicaria_
+subtitle: Assembling draft genomes for two strains of Daphnia pulicaria
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
