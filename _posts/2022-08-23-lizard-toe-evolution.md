@@ -2,7 +2,7 @@
 layout: post
 title: I analyzed lizard feet pics, so you don't have to
 subtitle: Geometric morphometrics reveal shape differences in the toes of urban lizards
-thumbnail-img: assets/img/download.jfif
+thumbnail-img: /assets/img/download.jfif
 tags: [urban, evolution, shape, geometric morphometrics, Anolis]
 comments: true
 ---
