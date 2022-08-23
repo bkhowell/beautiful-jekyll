@@ -2,9 +2,7 @@
 layout: post
 title: I assembled two Daphnia draft genomes, so you don't have to
 subtitle: Assembling draft genomes for two strains of Daphnia pulicaria
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/Daphnia_pulicaria.jpg
 tags: [Daphnia, adaptation, genomics, command line]
 ---
 
