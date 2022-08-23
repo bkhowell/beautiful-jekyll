@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: I analyzed lizard feet pics, so you don't have to
+subtitle: Geometric morphometrics reveal shape differences in the toes of urban lizards
+tags: [urban] [evolution] [shape] [geometric morphometrics] [Anolis]
 comments: true
 ---
 
